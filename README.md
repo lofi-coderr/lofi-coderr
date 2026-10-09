@@ -8,10 +8,10 @@ This is the code side of **lofi coder**. The idea is simple: a project you can w
 
 ## On the workbench 🌱
 
-**Small Steps**  
+**[Small Steps](https://github.com/lofi-coderr/small-steps)**  
 A cute little to-do app for the things you want to get done.
 
-Currently in development. The repository and matching video will be linked here when they are ready.
+The code is ready to explore. The matching video will be linked here when it is ready.
 
 ## What belongs here
 
